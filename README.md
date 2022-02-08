@@ -6,6 +6,17 @@ Martin (11 primeros)
 
 Tito (12 segundos)
 
+23.Repita el problema 21 para los siguientes instantes:
+Determine el voltaje en el inductor en los siguientes instantes tras de que se cierra el interruptor:
+
+![image](https://user-images.githubusercontent.com/94098157/152918065-8978a3ec-ff3d-49f6-b726-4eb13f56963a.png)
+
+a) 2µs
+b) 5µs
+c) 15µs
+
+
+25. En la figura 13-48, ¿en qué momento luego de que se cierra el interruptor el voltaje llega a 5 V?
 
 27.Determine la constante de tiempo para el circuito de la figura 13-50.
 
@@ -46,15 +57,25 @@ un voltaje de entrada rms de 10 V?
 
 ***CAPITULO N° 14***
 
-1.¿Cuál es la inductancia mutua cuando k  0.75, L1  1 mH, y L2 4 mH?
+1.¿Cuál es la inductancia mutua cuando k = 0,75 , L1 =1 µH, y L2 = 4 µH?
+
+![image](https://user-images.githubusercontent.com/94098157/152922036-fa646834-0268-4bd5-8ee8-507878b8641d.png)
 
 3.¿Cuál es la relación de vueltas de un transformador con 250 vueltas en el primario y 1000 en el secundario? ¿Cuál es la relación de vueltas cuando el devanado primario tiene 400 vueltas y el secundario 100?
+
+![image](https://user-images.githubusercontent.com/94098157/152922853-a7066de2-6c3b-4d17-be45-32dd80f3062f.png)
 
 5.Para cada transformador de la figura 14-42, trace el voltaje secundario que muestre su relación con el
 voltaje primario. Indique también la amplitud.
 
+![image](https://user-images.githubusercontent.com/94098157/152923103-0bfcf915-9528-44ea-881c-d55686973950.png)
+
 7.El devanado primario de un transformador tiene 120 V de ca a través de él. ¿Cuál es el voltaje secundario si la relación de vueltas es de 5?
 
+![image](https://user-images.githubusercontent.com/94098157/152923860-e3f5ad3e-9cdd-4704-a60c-83d7ee252db3.png)
+
 9.Para reducir 120 V a 30 V, ¿cuál debe ser la relación de vueltas?
+
+![image](https://user-images.githubusercontent.com/94098157/152924404-1c79c307-275d-4591-b2da-3021e2d1a249.png)
 
 Jefferson (12 ultimos)
