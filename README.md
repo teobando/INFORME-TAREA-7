@@ -70,6 +70,8 @@ voltaje primario. Indique también la amplitud.
 
 ![image](https://user-images.githubusercontent.com/94098157/152923103-0bfcf915-9528-44ea-881c-d55686973950.png)
 
+![image](https://user-images.githubusercontent.com/94098157/152925334-f1684640-150a-41b5-91a8-81f1001b8f4a.png)
+
 7.El devanado primario de un transformador tiene 120 V de ca a través de él. ¿Cuál es el voltaje secundario si la relación de vueltas es de 5?
 
 ![image](https://user-images.githubusercontent.com/94098157/152923860-e3f5ad3e-9cdd-4704-a60c-83d7ee252db3.png)
