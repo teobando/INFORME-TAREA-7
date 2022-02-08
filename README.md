@@ -72,11 +72,16 @@ Jefferson (13 ultimos)
 
 21. En cierto transformador, la potencia de entrada al primario es de 100 W, Si se pierden 5.5 W en las resistencias de devanado, ¿cuál es la potencia de salida hacia la carga, omitiendo cualesquiera otras pérdidas?
 
+
+
 23. Determine el coeficiente de acoplamiento de un transformador en el cual un 2% del flujo total generado en el primario no pasa a través del secundario.
+
+
 
 25. ¿Qué potencia nominal en kVA se requiere para un transformador que debe manejar una corriente máxima de 10 A a través de la carga con un voltaje secundario de 2.5 kV? 
 
-27. Determine cada uno de los voltajes desconocidos indicados en la figura 14-51.
+
+.27. Determine cada uno de los voltajes desconocidos indicados en la figura 14-51.
 
 ![image](https://user-images.githubusercontent.com/84757114/152909958-4dac4ebd-49df-4a16-9716-e60b19d3cbc0.png)
 
