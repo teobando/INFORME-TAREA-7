@@ -2,9 +2,9 @@
 
 ***CAPITULO N° 13***
 
-Martin (13 primeros)
+Martin (11 primeros)
 
-Tito (13 segundos)
+Tito (12 segundos)
 
 
 27.Determine la constante de tiempo para el circuito de la figura 13-50.
@@ -40,6 +40,7 @@ un voltaje de entrada rms de 10 V?
 ![image](https://user-images.githubusercontent.com/94098157/152913041-d598907a-de32-43b1-9e65-4ad0d65bad23.png)
 
 35.Determine IL2 en la figura 13-52.
+
 ![image](https://user-images.githubusercontent.com/94098157/152913834-7039b89d-8c05-4317-a881-75f00272e3a9.png)
 ![image](https://user-images.githubusercontent.com/94098157/152916975-251a2fd6-6c69-4241-96a8-8d3b981ca58f.png)
 
@@ -56,4 +57,4 @@ voltaje primario. Indique también la amplitud.
 
 9.Para reducir 120 V a 30 V, ¿cuál debe ser la relación de vueltas?
 
-Jefferson (13 ultimos)
+Jefferson (12 ultimos)
