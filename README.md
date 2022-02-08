@@ -1,4 +1,22 @@
-# INFORME-TAREA-7
+# INFORME TAREA 7
+
+**UNIVERSIDAD DE LAS FUERZAS ARMADAS**
+
+**DEPARTAMENTO DE ELECTRICA Y ELECTRÓNICA**
+
+**FUNDAMENTOS DE CIRCUITOS ELECTRICOS**
+
+**Nombres:** Martin Coronel, Jefferson Chicaiza, Tito Obando 
+
+**Carrera:** Electrónica y Automatización 
+
+**NRC:** 10133
+
+**1. OBJETIVOS**
+
+**2.MARCO TEORICO(RESUMEN)**
+
+**3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
 ***CAPITULO N° 13***
 
@@ -81,3 +99,9 @@ voltaje primario. Indique también la amplitud.
 ![image](https://user-images.githubusercontent.com/94098157/152924404-1c79c307-275d-4591-b2da-3021e2d1a249.png)
 
 Jefferson (12 ultimos)
+
+**3.VIDEO**
+
+**4.CONCLUSIONES**
+
+**5.BIBLIOGRAFÍA**
