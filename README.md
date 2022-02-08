@@ -2,13 +2,10 @@
 
 ***CAPITULO N° 13***
 
-Martin (11 primeros)
+Martin (13 primeros)
 
-Tito (12 segundos)
+Tito (13 segundos)
 
-23.Repita el problema 21 para los siguientes instantes:
-
-25.En la figura 13-48, ¿en qué momento luego de que se cierra el interruptor el voltaje llega a 5 V?
 
 27.Determine la constante de tiempo para el circuito de la figura 13-50.
 
@@ -35,4 +32,4 @@ voltaje primario. Indique también la amplitud.
 
 9.Para reducir 120 V a 30 V, ¿cuál debe ser la relación de vueltas?
 
-Jefferson (12 ultimos)
+Jefferson (13 ultimos)
