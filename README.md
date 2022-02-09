@@ -20,9 +20,125 @@
 
 ***CAPITULO N° 13***
 
-Martin (11 primeros)
+El inductor básico
+1. Convierta los siguientes valores en milihenries: 
+(a) 1 H 		(b)250uH 	(c)10uH 	(d) 0.0005 H
+(a) 1H = 1 * 1000 = 1000mH
+(b) 250uH = (2.5 * 10^-4) *1000 = 0.25mH
+(c) 10uH = 10^-5 * 1000 = 0.01mH
+(d) 0.0005H = 0.0005 * 1000 = 0.5mH
 
-Tito (12 segundos)
+3. ¿Cuál es el voltaje en una bobina cuando di/dt = 10 mA/us y L = 5 mH?
+V = L(di/dt)
+5mH = 5 * 10^-3 H
+10mA/us = 10,000A/s
+V = (5 * 10^-3) * 10,000
+V = 50mV
+
+5. La corriente a través de una bobina de 100 mH cambia a razón de 200 mA/s. ¿Cuánto voltaje se induce en la bobina?
+V = L(di/dt)
+100mH = 100 * 10^-3 H
+200mA/s = 2 *10^-1 A/s
+V = (100 * 10^-3)( 2 *10^-1)
+V = 0.02 V = 20 mV
+
+7. ¿Qué cantidad de energía se guarda en un inductor de 4,7 mH cuando la corriente es de 20 mA?
+W = ½ LI^2
+W = ½ (4.7 * 10^-3)(20 * 10^-3)^2
+W = 9.4 * 10^-7 J = 0.94 uJ
+
+9. Compare la inductancia de dos inductores idénticos excepto que el inductor 2 está enrollado sobre un núcleo de hierro (permeabilidad relativa = 150) y el inductor 1 está enrollado sobre un núcleo de acero al bajo carbono (permeabilidad relativa = 200)
+Inductor 1: enrollado sobre núcleo de hierro, permeabilidad relativa de 150
+Inductor 2: enrollado sobre núcleo de acero al bajo carbono, permeabilidad relativa de 200
+	El inductor 2 tiene tres cuartos de la inductancia del inductor 1.
+
+Inductores en serie y en paralelo
+11. Se conectan cinco inductores en serie. El valor más bajo es de 5 mH. Si el valor de cada inductor es el doble del valor precedente, y si los inductores se conectan en orden de valores ascendentes, ¿cuál es la inductancia total?
+5 Inductores:
+L1 = 5mH
+L2 = 10mH
+L3 = 20mH
+L4 = 40mH
+L5 = 80mH
+LT = 5 + 10 + 20 + 40 + 80
+LT = 155mH
+
+13. Determine la inductancia total en la figura.
+
+![image](https://user-images.githubusercontent.com/94182617/153255820-4c133f1b-96ba-4eab-a706-f816400120fb.png)
+
+LT = 50 + 0.5 + 0.01
+LT = 50.51mH
+
+15. Determine la inductancia total en paralelo para las siguientes bobinas dispuestas en paralelo: 75 mH, 50 mH, 25 mH, y 15 mH.
+LT = 1/(1/L1 + 1/L2 + 1/L3 + 1/L4)
+LT = 1/(1/75 + 1/50 + 1/25 + 1/15)
+LT = 7.14uH
+
+17. Determine la inductancia total de cada circuito mostrado en la figura.
+
+![image](https://user-images.githubusercontent.com/94182617/153255879-2b1e774f-d70d-49c9-80ef-18dd53a488dc.png)
+
+(a) 
+LT = L2||L3 + L1
+LT = (10)(5)/(10 + 5) + 1
+LT = 4.33H
+
+(b)
+LT = L2+L3||L1
+LT = 100/2
+LT = 50mH
+
+(c)
+LT = L1||L2||L3
+LT = 1/(1/100 + 1/200 + 1/400)
+LT = 57.1uH
+
+Inductores en circuitos de cd
+19. Determine la constante de tiempo para cada una de las siguientes combinaciones RL dispuestas en serie:
+(a)R=100ohm, L=100uH		(b)R=4.7kohm, L=10mH		(c)R=1.5Mohm, L=3H
+t = L/R
+(a)
+t = (1 * 10^-4)/(100)
+t = 0.000001 s = 1us
+
+(b) 
+t = (0.01)/(4700)
+t = 2.13 * 10^-6 = 2.13 us
+
+(c)
+t = (3)/(1,500,000)
+t = 2 * 10^-6 = 2us
+
+21. En el circuito de la figura, al inicio no hay corriente. Determine el voltaje en el inductor en los siguientes instantes tras de que se cierra el interruptor: 
+(a)10us		 (b)20us	 (c)30us		 (d)40us	 (e)50us 
+
+![image](https://user-images.githubusercontent.com/94182617/153255946-f639fb04-99a2-4e11-b303-52aba35ea8a5.png)
+
+T = L/R
+T = 10mH/1kohm
+T = 10s
+
+If = Vs/R
+If = 15V/1kohm
+If = 15mA
+
+iL = If(1-e^-Rt/L)
+(a)
+iL = 15mA(1-0.37) = 9.45mA
+
+(b)
+iL = 15mA(1-0.14) = 12.9mA
+
+(c)
+iL = 15mA(1-0.05) = 14.25mA
+
+(d)
+iL = 15mA(1-0.018) = 14.73mA
+
+(e)
+iL = 15mA(1-0.007) = 14.9mA
+
 
 23.Repita el problema 21 para los siguientes instantes:
 Determine el voltaje en el inductor en los siguientes instantes tras de que se cierra el interruptor:
