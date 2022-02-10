@@ -14,6 +14,16 @@
 
 **1. OBJETIVOS**
 
+*1.1 Objetivo General:* 
+
+Entender de forma precisa los conceptos básicos en lo que se refiere a inductores y transformadores mediante una lectura profunda del texto guía para aplicar en los ejercicios propuestos de cada capítulo.
+
+*1.2 Objetivos Especificos*
+
+1. Comprender la teoría de  inductores y transformadores para mantener una idea clara. 
+2. Resumir mediante mapas conceptuales todos conceptos que se abordan a lo que se refiere a inductores y transformadores.
+3. Aplicar la teoría en los ejercicios Propuestos.
+
 **2.MARCO TEORICO(RESUMEN)**
 
 **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
@@ -265,7 +275,13 @@ Jefferson (12 ultimos)
 
 https://www.youtube.com/watch?v=P6GSHu2Oqs8
 
-
 **4.CONCLUSIONES**
 
+1. Comprender la teoría es la base para aplicar los conceptos en la resolución de problemas, especialmente en el funcionamiento de los inductores y transformadores 
+2. Los conceptos de inductores nos muestran cómo se comportan en un circuito cerrado y la relación que existe entre sí cuando están conectados de forma paralela o en serie.
+3. Los conceptos de transformadores especialmente en inductancia ayuda a comprender su funcionamiento y el rol que cumplen en un circuito eléctrico. 
+4. La resolución de todos los problemas propuestos nos permiten entender de forma clara los funcionamientos de los inductores. Así mismo comprender el papel que tienen los transformadores en un circuito. 
+
 **5.BIBLIOGRAFÍA**
+
+Floyd, T. (2007). *Principios de circuitos electricos* (Ed. 8va). Pearson EDUCATION.
