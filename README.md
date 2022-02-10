@@ -25,6 +25,8 @@ Entender de forma precisa los conceptos básicos en lo que se refiere a inductor
 3. Aplicar la teoría en los ejercicios Propuestos.
 
 **2.MARCO TEORICO(RESUMEN)**
+![image](https://user-images.githubusercontent.com/94098157/153453667-34545b89-a23c-4334-a146-f1ac06b2445f.png)
+![image](https://user-images.githubusercontent.com/94098157/153453705-19b7bdb3-6f0c-4f05-93ad-dca3bab73560.png)
 
 **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
@@ -357,8 +359,6 @@ Jefferson (12 ultimos)
 (b) La resistencia reflejada en el primario.
 
 ![image](https://user-images.githubusercontent.com/84757114/153409467-9cd6fdf4-f7f4-4619-9446-d274f30f17e7.png)
-
-
 
 **3.VIDEO**
 
