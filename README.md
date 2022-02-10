@@ -336,45 +336,27 @@ Jefferson (12 ultimos)
  
 23. Determine el coeficiente de acoplamiento de un transformador en el cual un 2% del flujo total generado en el primario no pasa a través del secundario.
  
-
+![image](https://user-images.githubusercontent.com/84757114/153408636-552c1b01-4da8-48d8-8f8e-82c18907b3e3.png)
 
 25. ¿Qué potencia nominal en kVA se requiere para un transformador que debe manejar una corriente máxima de 10 A a través de la carga con un voltaje secundario de 2.5 kV? 
 
-
-
+![image](https://user-images.githubusercontent.com/84757114/153408826-b4fe1343-1b86-4d11-95e2-b6ca26da2b10.png)
 
 27. Determine cada uno de los voltajes desconocidos indicados en la figura 14-51.
 
+![image](https://user-images.githubusercontent.com/84757114/153408937-aa63cb39-f4c1-4f23-913c-9ad40a15883c.png)
 
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/84757114/153409045-aad0f1f5-1921-4ccd-81d4-276c0143e85f.png)
 
 29. Encuentre el voltaje secundario para cada uno de los autotransformadores mostrados en la figura 14-53.
 
-
-
-
-
-
-  
+![image](https://user-images.githubusercontent.com/84757114/153409245-956fefe9-4e39-43d1-902a-579abdb12059.png)  
 
 31. Para el transformador cargado con tomas que muestra la figura 14-55, determine lo siguiente: 
 (a) Todos los voltajes y corrientes presentes en la carga 
 (b) La resistencia reflejada en el primario.
 
-
-
-
-
-
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/84757114/153409467-9cd6fdf4-f7f4-4619-9446-d274f30f17e7.png)
 
 
 
