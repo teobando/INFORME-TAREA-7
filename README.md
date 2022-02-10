@@ -204,16 +204,24 @@ a) 2µs
 b) 5µs
 c) 15µs
 
+![image](https://user-images.githubusercontent.com/94098157/153344068-8baddd67-30b9-4f33-9bc0-d9b6945e9388.png)
 
 25. En la figura 13-48, ¿en qué momento luego de que se cierra el interruptor el voltaje llega a 5 V?
+![image](https://user-images.githubusercontent.com/94098157/153338830-73971e6c-76ab-45bf-863e-fd6b8a9595f0.png)
+
+![image](https://user-images.githubusercontent.com/94098157/153344644-52adfc98-4129-42d7-94a5-a6b5b5da3582.png)
 
 27.Determine la constante de tiempo para el circuito de la figura 13-50.
 
 ![image](https://user-images.githubusercontent.com/94098157/152901430-7d7f8cf0-03fe-422d-9c97-5b5d40513489.png)
 
+![image](https://user-images.githubusercontent.com/94098157/153337679-76627574-c22d-48e4-a165-c437c8cdb300.png)
+
 29.Para el circuito de la figura 13-50, suponga que el interruptor estuvo cerrado por más de 5τ y se abre.¿Cuál es la corriente en el inductor 1.0 ms después de que se abre el interruptor?
 
 ![image](https://user-images.githubusercontent.com/94098157/152901430-7d7f8cf0-03fe-422d-9c97-5b5d40513489.png)
+
+![image](https://user-images.githubusercontent.com/94098157/153343431-5907c9ab-692b-41cb-bf52-c0fcd6100763.png)
 
 31.Determine la reactancia total para cada circuito de la figura 13-47 cuando se aplica voltaje a una frecuencia
 de 400 Hz.
